@@ -14,23 +14,24 @@ This project utilizes both **traditional machine learning** models and **LLMs**:
 
 Machine Learning Models
 
-•	Linear Regression
-•	Bag of Words
-•	Word2Vec
-•	Random Forest
+- Linear Regression
+- Bag of Words
+- Word2Vec
+- Random Forest
 
-Large Language Models (LLMs)
+Large Language Models (LLMs):
 
-•	GPT-4o-mini
-•	LLaMA3.1
+- GPT-4o-mini
+- LLaMA3.1
+  
 
 ## 🧰 Tools and Libraries
 
-• Jupyter Notebook: For experimentation and model development.
-• GoogleColab for GPU finetuning.
-• Weights & Biases (W&B): For monitoring the fine-tuning process and tracking model performance.w32
-• Huggingface.
-• **QLoRA** & **Peft** for LLM finetuning.
+- Jupyter Notebook: For experimentation and model development.
+- GoogleColab for GPU finetuning.
+- Weights & Biases (W&B): For monitoring the fine-tuning process and tracking model performance.w32
+- Huggingface.
+- **QLoRA** & **Peft** for LLM finetuning.
   
 
 ## 🚀 Results
